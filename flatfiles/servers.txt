@@ -1,0 +1,22 @@
+```
+***SERVERS***
+
+Game: "7 Days to Die"
+Location or name: "Dysfunctional Family | Pvp Dayz to Die"
+
+Game: "Empyrion"                    
+Location or name: "Dysfunctional Family | Ascension PVP / Instant BP Repair"
+
+Game: "Dysfunctional Family | Zdaemon Hexan Server"
+Location or name: "tekkennetwork.com:10667"
+
+Game: "Dysfunctional Family | Zdaemon Heretic Server"
+Location or name: "tekkennetwork.com:10668"
+
+Game: "Dysfunctional Family | Zdaemon Doom Server"
+Location or name: "tekkennetwork.com:10669"
+
+Game: "Dysfunctional Family | Zdaemon Doom2 Server"
+Location or name: "tekkennetwork.com:10666"
+	
+```

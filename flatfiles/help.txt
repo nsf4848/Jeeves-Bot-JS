@@ -1,0 +1,31 @@
+```
+***LIST OF COMMANDS***
+
+!Forecast
+Gives you a 6 day forecast. Must put in the zip.
+
+!cat !roflcopter
+Ascii ftw!
+
+!Invite
+This will make a temporary invitation code.
+
+!Server
+A list of all gaming servers
+
+!Member
+Give a temporary user a permanent status (member role).
+
+!Meme
+Random meme generator. Include a search word if you'd like.
+
+!Ping
+Check your ping to the server.
+
+!Status
+Is the server running?
+
+!Weather
+Check the weather in any zip code.
+	
+```
